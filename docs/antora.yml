@@ -4,7 +4,7 @@ version: ~
 start_page: index.adoc
 asciidoc:
   extensions:
-    - asciidoctor-plantuml
+    - @coderic-latam/plantuml
   attributes:
     plantuml-server-url: 'http://www.plantuml.com/plantuml'
     source-language: asciidoc@
