@@ -1,3 +1,9 @@
 = Descripción General
 
 TODO
+
+[plantuml]
+----
+alice -> bob
+bob -> alice
+----
