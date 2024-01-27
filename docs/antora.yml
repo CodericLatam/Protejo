@@ -3,10 +3,7 @@ title: Protejo
 version: ~
 start_page: index.adoc
 asciidoc:
-  extensions:
-    - "@coderic-latam/plantuml"
   attributes:
-    plantuml-server-url: 'http://www.plantuml.com/plantuml'
     source-language: asciidoc@
     table-caption: false
 
