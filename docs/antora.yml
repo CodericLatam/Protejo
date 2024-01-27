@@ -1,0 +1,14 @@
+name: protejo
+title: Protejo
+version: ~
+start_page: index.adoc
+asciidoc:
+  extensions:
+    - asciidoctor-plantuml
+  attributes:
+    plantuml-server-url: 'http://www.plantuml.com/plantuml'
+    source-language: asciidoc@
+    table-caption: false
+
+nav:
+- modules/ROOT/nav.adoc
